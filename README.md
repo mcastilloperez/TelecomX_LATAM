@@ -1,6 +1,6 @@
 # 📊 Alura Data Science Challenge: Análisis de Evasión en TelecomX
 
-## 🌟 Vitrine.Dev
+## 🌟 Innovazione
 **✨ Nombre del Proyecto**: Análisis Predictivo de Churn para TelecomX  
 **🏷️ Tecnologías**: Python, Machine Learning, Análisis Estadístico  
 **🚀 URL del Proyecto**: [Enlace al Repositorio](#)  

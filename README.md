@@ -2,9 +2,9 @@
 
 ## 🌟 Innovazione
 **✨ Nombre del Proyecto**: Análisis Predictivo de Churn para TelecomX  
-**🏷️ Tecnologías**: Python, Machine Learning, Análisis Estadístico  
-**🚀 URL del Proyecto**: [Enlace al Repositorio](#)  
-**🔥 Desafío Original**: [Alura Data Science Challenge](https://www.alura.com.br/challenges/data-science/)
+**🏷️ Tecnologías**: Python, Análisis Estadístico  
+**🚀 URL del Proyecto**: [Enlace al Repositorio](https://github.com/mcastilloperez/TelecomX_LATAM)  
+**🔥 Desafío Original**: [Challenge Telecom X: análisis de evasión de clientes](https://app.aluracursos.com/course/challenge-telecom-x-analisis-evasion-clientes)
 
 ## 📑 Índice
 1. [Contexto del Proyecto](#-contexto-del-proyecto)
@@ -51,7 +51,7 @@ El proyecto siguió un enfoque CRISP-DM adaptado:
 - Exportación a CSV para análisis
 
 ### 📤 Carga de Datos
-- Resultado final: Dataset limpio en formato CSV
+- Resultado final: Dataset limpio
 - Estructura optimizada para análisis
 
 ### 🔍 Análisis Exploratorio
@@ -60,15 +60,9 @@ El proyecto siguió un enfoque CRISP-DM adaptado:
 - Correlación entre servicios contratados y retención
 - Segmentación de clientes de alto riesgo
 
-### 🤖 Modelado Predictivo
-- Implementación de modelos con scikit-learn
-- Técnicas para manejo de datos desbalanceados
-- Evaluación de métricas de performance
-
 ## 📌 Resultados Clave
 1. **Factores críticos** identificados que influyen en el churn
-2. **Modelo predictivo** con 85% de precisión
-3. **Recomendaciones estratégicas** para reducir la evasión
+2. **Recomendaciones estratégicas** para reducir la evasión
 
 ## 💻 Tecnologías Utilizadas
 **Lenguaje principal**: Python  

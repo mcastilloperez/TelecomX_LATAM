@@ -4,26 +4,26 @@
 **✨ Nombre del Proyecto**: Análisis Predictivo de Churn para TelecomX  
 **🏷️ Tecnologías**: Python, Análisis Estadístico  
 **🚀 URL del Proyecto**: [Enlace al Repositorio](https://github.com/mcastilloperez/TelecomX_LATAM)  
-**🔥 Desafío Original**: <a href="https://app.aluracursos.com/course/challenge-telecom-x-analisis-evasion-clientes" target="_blank">Challenge Telecom X: análisis de evasión de clientes</a>
+**🔥 Desafío Original**: [Challenge Telecom X: análisis de evasión de clientes ↗](https://app.aluracursos.com/course/challenge-telecom-x-analisis-evasion-clientes)  
 
-## 📑 Índice <a name="índice"></a>
-1. [Contexto del Proyecto](#-contexto-del-proyecto)
-2. [Metodología](#-metodología)
-3. [Fases del Proyecto](#-fases-del-proyecto)
-   - [Extracción de Datos](#-extracción-de-datos)
-   - [Transformación y Limpieza](#-transformación-y-limpieza)
-   - [Carga de Datos](#-carga-de-datos)
-   - [Análisis Exploratorio](#-análisis-exploratorio)
-4. [Resultados Clave](#-resultados-clave)
-5. [Tecnologías Utilizadas](#-tecnologías-utilizadas)
+## 📑 Índice <a name="indice"></a>
+1. [Contexto del Proyecto](#contexto-del-proyecto)
+2. [Metodología](#metodologia)
+3. [Fases del Proyecto](#fases-del-proyecto)
+   - [Extracción de Datos](#extracción-de-datos)
+   - [Transformación y Limpieza](#transformación-y-limpieza)
+   - [Carga de Datos](#carga-de-datos)
+   - [Análisis Exploratorio](#analisis-exploratorio)
+4. [Resultados Clave](#resultados-clave)
+5. [Tecnologías Utilizadas](#tecnologias-utilizadas)
 
-## 🏢 Contexto del Proyecto [[↑](#índice)] <a name="-contexto-del-proyecto"></a>
+## 🏢 Contexto del Proyecto [[↑](#indice)] <a name="contexto-del-proyecto"></a>
 **Empresa Solicitante**: TelecomX (operadora de telecomunicaciones)  
 **Objetivo Principal**: Reducir la tasa de churn (evasión de clientes) mediante análisis predictivo.  
 
 Se trabajó con un conjunto de datos en formato JSON que contenía información histórica de clientes, junto con su diccionario de datos. El reto consistió en transformar estos datos en insights accionables.
 
-## 🔬 Metodología [[↑](#índice)] <a name="-metodología"></a>
+## 🔬 Metodología [[↑](#indice)] <a name="metodologia"></a>
 El proyecto siguió un enfoque CRISP-DM adaptado:
 1. **Comprensión del negocio**  
 2. **Preprocesamiento de datos** (ETL)  
@@ -31,16 +31,16 @@ El proyecto siguió un enfoque CRISP-DM adaptado:
 4. **Modelado predictivo**  
 5. **Despliegue de resultados**
 
-## 🛠️ Fases del Proyecto [[↑](#índice)] <a name="-fases-del-proyecto"></a>
+## 🛠️ Fases del Proyecto [[↑](#indice)] <a name="fases-del-proyecto"></a>
 
-### 📥 Extracción de Datos [[↑](#índice)] <a name="-extracción-de-datos"></a>
+### 📥 Extracción de Datos [[↑](#indice)] <a name="extraccion-de-datos"></a>
 - Fuente: Archivo JSON con registros de clientes de TelecomX
 - Proceso:
   - Carga inicial con Python
   - Validación de estructura
   - Identificación de datos faltantes
 
-### 🔄 Transformación y Limpieza [[↑](#índice)] <a name="-transformación-y-limpieza"></a>
+### 🔄 Transformación y Limpieza [[↑](#indice)] <a name="transformación-y-limpieza"></a>
 **Acciones realizadas**:
 - Traducción de variables al español
 - Normalización de formatos
@@ -48,21 +48,21 @@ El proyecto siguió un enfoque CRISP-DM adaptado:
 - Codificación de variables categóricas
 - Exportación a CSV para análisis
 
-### 📤 Carga de Datos [[↑](#índice)] <a name="-carga-de-datos"></a>
+### 📤 Carga de Datos [[↑](#indice)] <a name="carga-de-datos"></a>
 - Resultado final: Dataset limpio
 - Estructura optimizada para análisis
 
-### 🔍 Análisis Exploratorio [[↑](#índice)] <a name="-análisis-exploratorio"></a>
+### 🔍 Análisis Exploratorio [[↑](#indice)] <a name="analisis-exploratorio"></a>
 **Hallazgos principales**:
 - Identificación de patrones temporales de churn
 - Correlación entre servicios contratados y retención
 - Segmentación de clientes de alto riesgo
 
-## 📌 Resultados Clave [[↑](#índice)] <a name="-resultados-clave"></a>
+## 📌 Resultados Clave [[↑](#indice)] <a name="resultados-clave"></a>
 1. **Factores críticos** identificados que influyen en el churn
 2. **Recomendaciones estratégicas** para reducir la evasión
 
-## 💻 Tecnologías Utilizadas [[↑](#índice)] <a name="-tecnologías-utilizadas"></a>
+## 💻 Tecnologías Utilizadas [[↑](#indice)] <a name="tecnologias-utilizadas"></a>
 **Lenguaje principal**: Python  
 **Bibliotecas clave**:
 ```plaintext

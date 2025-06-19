@@ -4,9 +4,9 @@
 **✨ Nombre del Proyecto**: Análisis Predictivo de Churn para TelecomX  
 **🏷️ Tecnologías**: Python, Análisis Estadístico  
 **🚀 URL del Proyecto**: [Enlace al Repositorio](https://github.com/mcastilloperez/TelecomX_LATAM)  
-**🔥 Desafío Original**: [Challenge Telecom X: análisis de evasión de clientes](https://app.aluracursos.com/course/challenge-telecom-x-analisis-evasion-clientes){:target="_blank"}
+**🔥 Desafío Original**: <a href="https://app.aluracursos.com/course/challenge-telecom-x-analisis-evasion-clientes" target="_blank">Challenge Telecom X: análisis de evasión de clientes</a>
 
-## 📑 Índice
+## 📑 Índice <a name="índice"></a>
 1. [Contexto del Proyecto](#-contexto-del-proyecto)
 2. [Metodología](#-metodología)
 3. [Fases del Proyecto](#-fases-del-proyecto)
